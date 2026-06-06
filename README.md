@@ -1,5 +1,5 @@
 # 💫 About Me:
-Gaurav Kothari 👨‍💻<br>🎓 B.Tech Computer Science Student (Class of 2027)<br>🧰 Stack: FastAPI | Python | SQL (Postgres/MySQL) | Docker | Git<br>🧠 Interests: Generative AI, Relational Databases, & Automated Pipelines<br>📈 Currently Building: Asynchronous backend engines and financial tech architectures.
+Gaurav Kothari 👨‍💻<br>🎓 B.Tech Computer Science Student (Class of 2027)<br>🧰 Stack: FastAPI | Python | SQL (Postgres/MySQL) | Docker | Git<br>🧠 Interests: Generative AI, Relational Databases, & Automated Pipelines<br>
 
 
 ## 🌐 Socials:
